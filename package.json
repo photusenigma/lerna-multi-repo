@@ -1,0 +1,24 @@
+{
+  "name": "lerna-multi-repo",
+  "version": "1.0.0",
+  "description": "A front-end solution made up of multiple projects, split across multi-repos, with interdependencies, and versioning/dependencies managed with a combination of Lerna, npm, and Webpack.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "git-subtree": "^0.2.1",
+    "lerna": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/photusenigma/lerna-multi-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/photusenigma/lerna-multi-repo/issues"
+  },
+  "homepage": "https://github.com/photusenigma/lerna-multi-repo#readme"
+}
